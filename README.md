@@ -32,10 +32,9 @@ mongoimport -d sm -c students student.txt
 **cnpm install mongoose express cookie-session md5-node ejs formidable --save**
 
 提交到git上(复习)
+- git init 先初始化仓库
 - git add *
 - git commit -m '文件上传'
-- git add .gitignore
-- git commit -m '隐形文件上传'
 - git status 查是否已经上传完
 - git log 查操作步骤
 - git log --oneline 打印成一行
